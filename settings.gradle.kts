@@ -5,4 +5,3 @@ dependencyResolutionManagement {
     repositories { google(); mavenCentral() }
 }
 rootProject.name = "FocusLock"
-include(":app")
